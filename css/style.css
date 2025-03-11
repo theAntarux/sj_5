@@ -61,6 +61,13 @@ header{
   display: none;
 }
 
+/* FOOTER */
+.php_footer{}
+.php_footer li a{
+  color:white;
+  text-decoration: none;
+}
+
 /*ŠTÝLY PRE LAYOUT*/
 .container{
   padding:3% 10% 3% 10%;
